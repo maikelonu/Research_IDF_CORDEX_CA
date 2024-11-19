@@ -1,0 +1,14 @@
+ATTRIBUTE	VALUE
+sta.id	AIJS
+rcm.id	HadGEM2_RegCM47
+rcp.id	RCP85
+sta.long	-84.2001
+sta.lat	9.997
+cordex.path	/home/shoe/Documents/cordex_test/hadgem_regcm4/hist
+df.base.cordex	List_CAM22_HadGEM2_RegCM47_hist.txt
+cordex.path02	/home/shoe/Documents/cordex_test/hadgem_regcm4/rcp85
+df.base.cordex02	List_CAM22_HadGEM2_RegCM47_sim.txt
+val.length	15
+umbral.rain	0.1
+p.theta	0.95
+thres.factor.24h	3.0001
