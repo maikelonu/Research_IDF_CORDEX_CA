@@ -17,25 +17,27 @@ Maikel Mendez Morales. Escuela de Ingeniería en Construcción, Instituto Tecnol
 
 ## Publications
 
-To be defined (in press)
+Assessing the Effect of Bias Correction Methods on the Development of Intensity–Duration–Frequency Curves Based on Projections from the CORDEX Central America GCM-RCM Multimodel-Ensemble 
 
 ![alt test](/fig01.png)
 
 Graphical Abstract
 
-To be defined (in press)
+https://doi.org/10.3390/w16233473
 
-![alt test](/fig02.png)
+![alt test](/Graphical_Abstract.png)
 
 Abstract: 
 
-To be defined (in press)
+This work aims to examine the effect of bias correction (BC) methods on the development of Intensity–Duration–Frequency (IDF) curves under climate change at multiple temporal scales. Daily outputs from a 9-member CORDEX-CA GCM-RCM multi-model ensemble (MME) under RCP 8.5 were used to represent future precipitation. Two stationary BC methods, empirical quantile mapping (EQM) and gamma-pareto quantile mapping (GPM), along with three non-stationary BC methods, detrended quantile mapping (DQM), quantile delta mapping (QDM), and robust quantile mapping (RQM), were selected to adjust daily biases between MME members and observations from the SJO weather station located in Costa Rica. The equidistant quantile-matching (EDQM) temporal disaggregation method was applied to obtain future sub-daily annual maximum precipitation series (AMPs) based on daily projections from the bias-corrected ensemble members. Both historical and future IDF curves were developed based on 5 min temporal resolution AMP series using the Generalized Extreme Value (GEV) distribution. The results indicate that projected future precipitation intensities (2020–2100) vary significantly from historical IDF curves (1970–2020), depending on individual GCM-RCMs, BC methods, durations, and return periods. Regardless of stationarity, the ensemble spread increases steadily with the return period, as uncertainties are further amplified with increasing return periods. Stationary BC methods show a wide variety of trends depending on individual GCM-RCM models, many of which are unrealistic and physically improbable. In contrast, non-stationary BC methods generally show a tendency towards higher precipitation intensities as the return period increases for individual GCM-RCMs, despite differences in the magnitude of changes. Precipitation intensities based on ensemble means are found to increase with the change factor (CF), ranging between 2 and 25% depending on the temporal scale, return period, and non-stationary BC method, with moderately smaller increases for short-durations and long-durations, and slightly higher for mid-durations. In summary, it can be concluded that stationary BC methods underperform compared to non-stationary BC methods. DQM and RQM are the most suitable BC methods for generating future IDF curves, recommending the use of ensemble means over ensemble medians or individual GCM-RCM outcomes.
 
-![alt test](/fig03.png)
+![alt test](/FIG01.png)
 
-![alt test](/fig04.png)
+![alt test](/FIG10.png)
 
-![alt test](/fig05.png)
+![alt test](/FIG11.png)
+
+![alt test](/FIG12.png)
 
 ## License
 
